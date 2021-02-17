@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-personal-web"
+  "defaultProject": "angular-personal-web",
+  "cli": {
+    "analytics": "0e96d04a-c65c-4c5f-8581-09f6f7558bff"
+  }
 }
